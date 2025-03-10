@@ -8,7 +8,7 @@
 
 Nice One is a leading Saudi company in the e-commerce sector, occupying a leading position in the field of beauty in the Gulf and the Middle East by providing a wide range of beauty, care, and perfume products.
 
-The data for this project was collected from the Nice One website, a prominent Saudi e-commerce platform specializing in beauty, care, and perfume products.
+The data for this project was collected from the Nice One website in March 7th, 2025 a prominent Saudi e-commerce platform specializing in beauty, care, and perfume products.
 
 ---
 
@@ -45,3 +45,8 @@ Customers often struggle to find makeup products that fit their budget and prefe
  **K-means Model**: A clustering algorithm that partitions data into K distinct clusters based on their features.
 
 ---
+## Team Members:
+Munirah Alzuman 
+Raghad Alharbi
+Yaqeen Alhalal
+Tahani Alotaibi
