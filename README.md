@@ -29,21 +29,19 @@ Customers often struggle to find makeup products that fit their budget and prefe
 
 ## Dataset Features
 
-1. **name**: Name of the product .
-2. **brand_name**: The brand of the product .
+1. **name**: Name of the product.  
+2. **brand_name**: The brand of the product.  
 3. **original_price**: The original price of the product.  
 4. **discounted_price**: The discounted price.  
-5. **rating_number**: Average rating of the product .  
-6. **reviews_number**: Number of reviews .  
-7. **makeup_type**: Type of makeup product .  
-8. **skin_type**: Suitable skin type .  
-9. **texture**: Product texture (
+5. **rating_number**: Average rating of the product.  
+6. **reviews_number**: Number of reviews.  
+7. **makeup_type**: Type of makeup product.  
+8. **skin_type**: Suitable skin type.  
+9. **texture**: Product texture.
 
 ---
 
-## Models Used
-
-1. **DBSCAN**: A clustering algorithm used for density-based spatial clustering of applications with noise.  
-2. **K-means Model**: A clustering algorithm that partitions data into K distinct clusters based on their features.
+## Models Used 
+ **K-means Model**: A clustering algorithm that partitions data into K distinct clusters based on their features.
 
 ---
