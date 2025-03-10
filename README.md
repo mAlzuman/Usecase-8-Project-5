@@ -1,6 +1,6 @@
-<center><h1>Tuwaiq Academy</h1></center>
-<center><h2>Data Science and Machine Learning Bootcamp</h2></center>
-<center><h2>Usecase 8 - Project 5: Niceone Makeup</h2></center>
+<h1 align="center">Tuwaiq Academy</h1>
+<h2 align="center">Data Science and Machine Learning Bootcamp</h2>
+<h2 align="center">Usecase 8 - Project 5: Niceone Makeup</h2>
 
 ---
 
