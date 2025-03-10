@@ -20,24 +20,24 @@ Customers often struggle to find makeup products that fit their budget and prefe
 
 ## Objectives
 
-> 1. Explore the dataset to uncover trends in pricing, ratings, and customer preferences.  
-> 2. Perform feature engineering to enhance the dataset for modeling.  
-> 3. Build predictive models to analyze patterns (e.g., predicting product ratings).  
-> 4. Provide actionable insights that can help optimize business strategies.
+- Explore the dataset to uncover trends in pricing, ratings, and customer preferences.  
+- Perform feature engineering to enhance the dataset for modeling.  
+- Build predictive models to analyze patterns (e.g., predicting product ratings).  
+- Provide actionable insights that can help optimize business strategies.
 
 ---
 
 ## Dataset Features
 
-1. **name**: Name of the product.  
-2. **brand_name**: The brand of the product.  
-3. **original_price**: The original price of the product.  
-4. **discounted_price**: The discounted price.  
-5. **rating_number**: Average rating of the product.  
-6. **reviews_number**: Number of reviews.  
-7. **makeup_type**: Type of makeup product.  
-8. **skin_type**: Suitable skin type.  
-9. **texture**: Product texture.
+- Original price: The product's price before any discount.
+- Discount price: The price after the discount (if 0, no discount is applied).
+- Name: The name of the product or tool.
+- Brand name: The brand of the product.
+- Rating number: The product's rating out of 5.
+- Reviews number: The number of customer reviews.
+- Skin type: The skin type suitable for the product.
+- Makeup type: The category of makeup (e.g., foundation, lipstick). The value "Not Available" in this feature indicates that the product or tool does not have a specified makeup type.
+- Texture: The product’s texture (e.g., liquid, powder). The value "Not Available" in this feature indicates that the product or tool does not have a specified texture. 
 
 ---
 
@@ -46,7 +46,7 @@ Customers often struggle to find makeup products that fit their budget and prefe
 
 ---
 ## Team Members:
-Munirah Alzuman 
-Raghad Alharbi
-Yaqeen Alhalal
-Tahani Alotaibi
+- Munirah Alzuman 
+- Raghad Alharbi
+- Yaqeen Alhalal
+- Tahani Alotaibi
