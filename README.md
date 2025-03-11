@@ -2,7 +2,7 @@
 <h2 align="center">Data Science and Machine Learning Bootcamp</h2>
 <h2 align="center">Usecase 8 - Project 5: Niceone Makeup</h2>
 
----
+
 
 # Introduction
 
@@ -10,13 +10,13 @@ Nice One is a leading Saudi company in the e-commerce sector, occupying a leadin
 
 The data for this project was collected from the Nice One website in March 7th, 2025 a prominent Saudi e-commerce platform specializing in beauty, care, and perfume products.
 
----
+
 
 ## Problem Statement
 
 Customers often struggle to find makeup products that fit their budget and preferences. This project aims to use K-means clustering to group makeup products based on price, discount price, makeup type, brand name, and review count, helping users discover low-cost, affordable, and luxury options more easily.
 
----
+
 
 ## Objectives
 
@@ -43,7 +43,12 @@ Customers often struggle to find makeup products that fit their budget and prefe
 
 ## Models Used 
  **K-means Model**: A clustering algorithm that partitions data into K distinct clusters based on their features.
+ 
+## Access the Application
 
+You can access the deployed application using the link below:
+
+[Visit the App](https://app-app-idrjhys4fh8ndhuqznrprq.streamlit.app)
 ---
 ## Team Members:
 - Munirah Alzuman 
