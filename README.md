@@ -52,6 +52,15 @@ To categorize makeup products into distinct clusters based on key features, maki
 4. **🎯 Budget-Friendly Options** - Products that balance quality and affordability.  
 
 ---
+## 🚀 Model Deployment  
+
+We deployed the model using **FastAPI**, starting with **library installation** and **API development**.  
+After **local testing via Swagger UI**, we uploaded the project to **GitHub** and deployed it on **Render** by configuring a **Web Service**.  
+Finally, we integrated the API with **Streamlit**, creating an **interactive UI** for users to send data and view predictions.  
+
+🔗 **Live Demo:** [Streamlit App](https://app-app-idrjhys4fh8ndhuqznrprq.streamlit.app) 🚀
+
+---
 
 ## 👥 Team Members  
 - **Munirah Alzuman**  
